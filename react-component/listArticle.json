@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1653718815546,
+      "titel": "",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip",
+      "title": "habis gelap terbitlah terang"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
